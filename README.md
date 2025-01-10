@@ -12,11 +12,11 @@ The 5f1 circuit was made from 1955 - 1960.
 
 ### Schematic
 
-![circuit schematic](https://github.com/apacific/https://github.com/apacific/push-pull-valve-amplifier/blob/main/media/images/5e3_schematic.png?raw=true)
+![circuit schematic](https://github.com/apacific/push-pull-valve-amplifier/blob/main/media/images/5e3_schematic.png?raw=true)
 
 ### Layout
 
-![circuit layout](https://github.com/apacific/https://github.com/apacific/push-pull-valve-amplifier/blob/main/media/images/5e3_layout.png?raw=true)
+![circuit layout](https://github.com/apacific/push-pull-valve-amplifier/blob/main/media/images/5e3_layout.png?raw=true)
 
 # Demo
 
